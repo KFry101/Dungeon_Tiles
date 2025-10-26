@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="core">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../core.jar!/" />
       <root url="jar://$USER_HOME$/OneDrive/Documents/Processing/libraries/sound/library/jlayer-1.0.1.4.jar!/" />
       <root url="jar://$USER_HOME$/OneDrive/Documents/Processing/libraries/sound/library/jorbis-0.0.17.4.jar!/" />
       <root url="jar://$USER_HOME$/OneDrive/Documents/Processing/libraries/sound/library/jportaudio.jar!/" />
@@ -10,6 +9,7 @@
       <root url="jar://$USER_HOME$/OneDrive/Documents/Processing/libraries/sound/library/sound.jar!/" />
       <root url="jar://$USER_HOME$/OneDrive/Documents/Processing/libraries/sound/library/tritonus-share-0.3.7.4.jar!/" />
       <root url="jar://$USER_HOME$/OneDrive/Documents/Processing/libraries/sound/library/vorbisspi-1.0.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Processing/app/resources/core/library/core-4.4.10.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
